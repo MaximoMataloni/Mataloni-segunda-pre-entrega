@@ -6,7 +6,7 @@ Acceso al proyecto
 
 Acceso a repositorio github: https://github.com/MaximoMataloni/Mataloni-segunda-pre-entrega.git
 
-Acceso a la web: https://maximomataloni.github.io/Mataloni-segunda-pre-entrega/pages/historia.html
+Acceso a la web: https://maximomataloni.github.io/Mataloni-segunda-pre-entrega/index.html
 
 Tecnologias Utilizadas: bootstrap, grids, flexbox
 
