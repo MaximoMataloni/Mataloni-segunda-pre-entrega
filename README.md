@@ -3,9 +3,9 @@ El proyecto se basa en la creacion de un sitio donde se pueda acceder a la histo
 Estado del proyecto: el proyecto se encuentra en desarrollo
 
 Acceso al proyecto 
-acceso a github: https://github.com/MaximoMataloni/Mataloni-segunda-pre-entrega.git
-acceso a la web: 
+acceso a repositorio github: https://github.com/MaximoMataloni/Mataloni-segunda-pre-entrega.git
+acceso a la web: https://maximomataloni.github.io/Mataloni-segunda-pre-entrega/pages/historia.html
 
 Tecnologias Utilizadas: bootstrap, grids, flexbox
 
-desarrollador: Mataloni Maximo
+Desarrollador: Mataloni Maximo
